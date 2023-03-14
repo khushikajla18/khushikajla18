@@ -1,12 +1,8 @@
 - 👋 Hi, I’m a Space Enthusiastic & Creative Engineer.
-- 👀 I’m do/like AI,Graphic Design,Art&Crafts and Travel.
-- 🌱 I’m Currently Learning...Cyber Security and DSA.
-- 💞️ I’m Looking to Collaborate on Good Web&App-Devs and Startups.
-- 📫 How to Reach Me-
+- 👀 AI,Graphic Design,Art&Crafts and Travel are my things.
+- 🌱 I’m Currently Learning...JavaScript and DSA.
 - LinkedIn-@KhushiKajla
-- Instagram-@SustainStudentzzz
-- Youtube-@SustainStudentzzz
-- Searching for your msg just like I search Good Novels :)
+- Searching Good Novels :)
 
 <!---
 khushikajla18/khushikajla18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
